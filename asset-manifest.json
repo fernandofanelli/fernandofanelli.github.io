@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/fernandofanelli.github.io/static/css/main.e76b66f0.css",
-    "main.js": "/fernandofanelli.github.io/static/js/main.fb210e92.js",
-    "index.html": "/fernandofanelli.github.io/index.html",
-    "main.e76b66f0.css.map": "/fernandofanelli.github.io/static/css/main.e76b66f0.css.map",
-    "main.fb210e92.js.map": "/fernandofanelli.github.io/static/js/main.fb210e92.js.map"
+    "main.css": "/muebles/static/css/main.e76b66f0.css",
+    "main.js": "/muebles/static/js/main.fb210e92.js",
+    "index.html": "/muebles/index.html",
+    "main.e76b66f0.css.map": "/muebles/static/css/main.e76b66f0.css.map",
+    "main.fb210e92.js.map": "/muebles/static/js/main.fb210e92.js.map"
   },
   "entrypoints": [
     "static/css/main.e76b66f0.css",
